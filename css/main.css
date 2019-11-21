@@ -2542,6 +2542,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   color: #FFFFFF;
   z-index: 600;
   position: relative;
+  text-align: center;
 }
 .contact-content h5 {
   color: #FFFFFF;
