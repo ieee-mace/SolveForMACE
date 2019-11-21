@@ -471,7 +471,7 @@ td:last-child {
 }
 
 .pace .pace-progress {
-  background: blue;
+  background: #f9a828;
   position: fixed;
   z-index: 900;
   top: 0;
@@ -510,7 +510,7 @@ td:last-child {
   margin-left: -30px;
   margin-top: -30px;
   padding: 0;
-  background-color: blue;
+  background-color: #f9a828;
   border-radius: 100%;
   -webkit-animation: sk-scaleout 1.0s infinite ease-in-out;
   animation: sk-scaleout 1.0s infinite ease-in-out;
@@ -799,7 +799,6 @@ button.large, .button.large {
 button.stroke, .button.stroke {
   background: transparent !important;
   border: 3px solid #313131;
-  border-radius: 25%;
   line-height: 4.8rem;
 }
 
@@ -814,7 +813,6 @@ button.stroke.large, .button.stroke.large {
 button.stroke:hover, .button.stroke:hover {
   border: 3px solid #f9a828;
   color: #f9a828;
-  background: aqua !important;
 }
 
 button::-moz-focus-inner,
@@ -1493,7 +1491,7 @@ header .header-logo a {
   header .header-logo a {
     width: 90px;
     height: 24px;
-    background-size: 90px 24px;
+    background-size: 51px 24px;
   }
 }
 @media only screen and (max-width: 400px) {
