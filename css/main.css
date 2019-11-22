@@ -1262,10 +1262,10 @@ header .header-logo a {
   padding: 0;
   outline: 0;
   border: none;
-  width: 100px;
+  width: 116px;
   height: 30px;
   background: url("../images/logo.png") no-repeat center;
-  background-size: 100px 27px;
+  background-size: 116px 30px;
   font: 0/0 a;
   text-shadow: none;
   color: transparent;
@@ -1491,9 +1491,9 @@ header .header-logo a {
  * ------------------------------------------------------------------- */
 @media only screen and (max-width: 768px) {
   header .header-logo a {
-    width: 90px;
-    height: 24px;
-    background-size: 90px 24px;
+    width: 116px;
+    height: 30px;
+    background-size: 116px 30px;
   }
 }
 @media only screen and (max-width: 400px) {
@@ -1949,7 +1949,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 }
 #services .services-list .icon i {
   font-size: 5.4rem;
-  color: #f9a828;
+  color: aqua;
 }
 #services .services-list .h05 {
   font-size: 1.7rem;
